@@ -6,3 +6,4 @@ Formulário integrado com Sheet Monkey e planilha no Google Sheets, salvando tam
 Redirecionamento para o site do Google.
 
 Link da LP pública usando o Netlify: https://lp-arquitetura-simples.netlify.app/
+Link da planilha com os dados submetidos: https://docs.google.com/spreadsheets/d/1ZgOK57fqWqnGmD05VlDcP1RICF7Ki1a_k7QzWu21ZBo/edit?usp=sharing
